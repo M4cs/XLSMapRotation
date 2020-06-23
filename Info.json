@@ -1,0 +1,5 @@
+{
+  "Name": "XLSMapRotation",
+  "AssemblyName": "XLSMapRotation.dll",
+  "StartupMethod": "XLSMapRotation.Main:Load"
+}
